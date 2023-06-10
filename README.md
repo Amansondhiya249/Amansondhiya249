@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-> Ambitious student pursuing a B.Tech. degree in Computer Science from Global Engineering College.
+-> Recently obtained the Microsoft Azure Fundamentals certificate, demonstrating dedication to staying updated with the latest advancements    in the field.
+-> Actively developing technical skills in areas such as web development, PHP, MySQL, C, C++, and JavaScript.
+-> Diligent learner seeking to broaden knowledge and enhance proficiency in the ever-evolving world of computer science.
 
